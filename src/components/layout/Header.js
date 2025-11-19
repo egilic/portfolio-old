@@ -9,7 +9,7 @@ const Header = () => {
             <img src='/assets/edin.jpg' alt="Edin Gilic" className="w-28 h-28 rounded-full object-cover" />
             <div className="text-center md:text-left">
               <h1 className="text-3xl font-bold">Edin Gilic</h1>
-              <h2 className="text-xl text-text-secondary">Physics and Machine Learning Enthusiast, Aspiring Researcher</h2>
+              <h2 className="text-xl text-text-secondary">C++ and Mathematics Enthusiast</h2>
               <p className="text-sm mt-1">Phoenix, Arizona, United States</p>
               <div className="mt-2 space-x-2">
                 <a href="mailto:egilic@umich.edu" className="text-primary hover:underline">Email</a> |
